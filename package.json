@@ -1,0 +1,17 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no specified\"&& exit 1"
+  },
+  "keywords":[],
+  "author": "Ryan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.0.0"
+  },
+  "dependencies":{},
+  "description":""
+}
